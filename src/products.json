@@ -1,0 +1,36 @@
+[
+    {
+        "id" : 1,
+        "title" : "Gum",
+        "price" : 0.5,
+        "image" : "https://www.extragum.com/cdn-cgi/image/width=472,height=472,f=auto,quality=90/sites/g/files/fnmzdf591/files/migrate-product-files/atjqxjjq5pycvpny9xhs.png"
+    },
+
+    {
+        "id" : 2,
+        "title" : "Coke",
+        "price" : 6,
+        "image": "https://images.heb.com/is/image/HEBGrocery/001397056"
+    },
+
+    {
+        "id" : 3,
+        "title" : "Shoes",
+        "price" : 40,
+        "image" : "https://img-lescon.mncdn.com/UPLOAD/URUNLER/thumb/22BAE00TRMEM_633_1_small.jpg"
+    },
+
+    {
+        "id" : 4,
+        "title" : "Car",
+        "price" : 5000,
+        "image" : "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/homepage/families-gallery/2022/04_12/family_chooser_tecnica_m.png"
+    },
+
+    {
+        "id" : 5,
+        "title" : "House",
+        "price" : 1000000,
+        "image" : "https://karmod.com/images/resimler/tr/ev-fiyatlari.jpg"
+    }
+]
